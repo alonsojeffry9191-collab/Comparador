@@ -1,0 +1,134 @@
+[
+  {
+    "id": "manual-1",
+    "sellerName": "NUVO Store Escazú (Garantía)",
+    "model": "iPhone 13",
+    "capacity": "128 GB",
+    "priceCRC": 265000,
+    "condition": "Excelente",
+    "batteryPercentage": 89,
+    "notes": "Grado Excelente, 90 días de garantía iCon",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-2",
+    "sellerName": "iStuff CR San Pedro",
+    "model": "iPhone 13",
+    "capacity": "128 GB",
+    "priceCRC": 275000,
+    "condition": "Muy Bueno",
+    "batteryPercentage": 88,
+    "notes": "Certified Pre-Owned, batería mayor al 85%",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-3",
+    "sellerName": "iStore CR (TikTok/IG)",
+    "model": "iPhone 13",
+    "capacity": "128 GB",
+    "priceCRC": 255000,
+    "condition": "Excelente",
+    "batteryPercentage": 91,
+    "notes": "Seminuevo impecable con cargador original",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-4",
+    "sellerName": "Apple San José Outlet",
+    "model": "iPhone 14 Pro",
+    "capacity": "128 GB",
+    "priceCRC": 395000,
+    "condition": "Excelente",
+    "batteryPercentage": 92,
+    "notes": "Impecable, caja genérica",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-5",
+    "sellerName": "NUVO Store Pinares",
+    "model": "iPhone 14 Pro",
+    "capacity": "128 GB",
+    "priceCRC": 415000,
+    "condition": "Excelente",
+    "batteryPercentage": 90,
+    "notes": "Certificado con 90 días garantía",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-6",
+    "sellerName": "Smartphones CR Heredia",
+    "model": "iPhone 14 Pro",
+    "capacity": "128 GB",
+    "priceCRC": 385000,
+    "condition": "Muy Bueno",
+    "batteryPercentage": 87,
+    "notes": "Garantía local 60 días",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-7",
+    "sellerName": "Linocr Curridabat",
+    "model": "iPhone 15 Pro",
+    "capacity": "128 GB",
+    "priceCRC": 525000,
+    "condition": "Excelente",
+    "batteryPercentage": 95,
+    "notes": "Seminuevo Grado A con garantía",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-8",
+    "sellerName": "iStuff Lindora",
+    "model": "iPhone 15 Pro",
+    "capacity": "128 GB",
+    "priceCRC": 540000,
+    "condition": "Excelente",
+    "batteryPercentage": 96,
+    "notes": "CPO Batería sobre 90%",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-9",
+    "sellerName": "TikTok @iphonescostarica",
+    "model": "iPhone 15 Pro",
+    "capacity": "128 GB",
+    "priceCRC": 510000,
+    "condition": "Muy Bueno",
+    "batteryPercentage": 92,
+    "notes": "Vendedor verificado en San José",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-10",
+    "sellerName": "NUVO Multiplaza Escazú",
+    "model": "iPhone 15 Pro Max",
+    "capacity": "256 GB",
+    "priceCRC": 630000,
+    "condition": "Excelente",
+    "batteryPercentage": 94,
+    "notes": "Certificado iCon, garantía 90 días",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-11",
+    "sellerName": "iStuff San Pedro",
+    "model": "iPhone 15 Pro Max",
+    "capacity": "256 GB",
+    "priceCRC": 645000,
+    "condition": "Excelente",
+    "batteryPercentage": 96,
+    "notes": "CPO con accesorios completos",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  },
+  {
+    "id": "manual-12",
+    "sellerName": "Tech Outlet Costa Rica",
+    "model": "iPhone 15 Pro Max",
+    "capacity": "256 GB",
+    "priceCRC": 615000,
+    "condition": "Muy Bueno",
+    "batteryPercentage": 90,
+    "notes": "Garantía de tienda 60 días",
+    "dateAdded": "2026-09-30T08:00:00.000Z"
+  }
+]
